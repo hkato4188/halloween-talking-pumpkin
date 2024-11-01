@@ -1,1 +1,2 @@
 1. Create git tracking
+2. Create pumpkin class, draw method, and gray circle on canvas
